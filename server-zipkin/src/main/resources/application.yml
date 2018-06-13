@@ -1,0 +1,4 @@
+# 关闭本工程推送到zipkin服务的功能
+spring:
+  zipkin:
+    enabled: false
